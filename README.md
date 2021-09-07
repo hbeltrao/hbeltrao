@@ -9,6 +9,8 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Databricks" height="30" width="40" src="https://github.com/hbeltrao/hbeltrao/blob/f27022c873e8a00cfdcca5c4d9d0ce1886e3297f/icons/4998052.png">
+    <img align="center" alt="Spark" height="30" width="40" src="https://github.com/hbeltrao/hbeltrao/blob/ba3ffc36b1d7cd09f917d21bcb3e2556dfd24bff/icons/apache-spark.jpg">
 </div>
   
   ##
