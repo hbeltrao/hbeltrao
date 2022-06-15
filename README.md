@@ -8,7 +8,7 @@
   
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Mysql" src="[https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)">
+    <img align="center" alt="Mysql" src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Databricks" height="30" width="40" src="https://github.com/hbeltrao/hbeltrao/blob/f27022c873e8a00cfdcca5c4d9d0ce1886e3297f/icons/4998052.png">
